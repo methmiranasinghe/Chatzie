@@ -1,7 +1,7 @@
 {
   "name": "chatzie",
   "version": "1.0.0",
-  "description": "It is Chat app whcih users can use like use to cmmunicate through sms",
+  "description": "It is Chat app which users can use like use to communicate through sms",
   "main": "server.js",
   "scripts": {
     "server": "nodemon backend/server.js",
